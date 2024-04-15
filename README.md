@@ -1,2 +1,3 @@
 # First-Repo
-for learning github
+first code on github
+Lakshay Yadav
